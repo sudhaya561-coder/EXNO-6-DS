@@ -18,6 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+~~~ python
     import seaborn as sns
     import pandas as pd
     # Replace with your actual CSV file
@@ -52,7 +53,8 @@ STEP 5:Include Necessary parameters in each functions.
     data=df,
     palette="rainbow"
     )
-
+~~~
+# output:
     
 [vertopal.com_seaborn (2).pdf](https://github.com/user-attachments/files/25600901/vertopal.com_seaborn.2.pdf)
 
